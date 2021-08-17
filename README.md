@@ -19,7 +19,3 @@ An afternoon-ordering system building with JS/HTML/CSS/PHP/MySQL
 
 ### Control Page
 ![](https://i.imgur.com/wOjF9bE.png)
-
-### Member Page
-![](https://i.imgur.com/v8Npole.png)
-
