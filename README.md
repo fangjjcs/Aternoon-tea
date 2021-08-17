@@ -16,3 +16,10 @@ An afternoon-ordering system building with JS/HTML/CSS/PHP/MySQL
 
 ### Export Page
 ![](https://i.imgur.com/MhbOwMf.png)
+
+### Control Page
+![](https://i.imgur.com/wOjF9bE.png)
+
+### Member Page
+![](https://i.imgur.com/v8Npole.png)
+
